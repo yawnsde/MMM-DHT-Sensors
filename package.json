@@ -1,0 +1,27 @@
+{
+  "name": "Magic-Mirror-Module-DHT-Sensors",
+  "version": "1.0.0",
+  "description": "MagicMirror2 Module to display temperature and humidity detected with DHT11 / DHT22 sensor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yawnsde/MMM-DHT-Sensors"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "DHT-Sensors",
+    "module",
+    "temperature",
+    "humidity"
+  ],
+  "author": "Stefan Krause",
+  "contributors": "https://github.com/yawnsde/MMM-DHT-Sensors/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yawnsde/MMM-DHT-Sensors/issues"
+  },
+  "homepage": "https://github.com/yawnsde/MMM-DHT-Sensors#readme",
+  "dependencies": {
+	"node-dht-sensor": "latest"
+    }
+}
